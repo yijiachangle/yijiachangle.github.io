@@ -225,7 +225,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -238,7 +238,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Long Cang, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Long Cang, Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1237,7 +1237,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Splash, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Splash, Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1379,7 +1379,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #f4ff8a;
+    background: #e44af9;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
