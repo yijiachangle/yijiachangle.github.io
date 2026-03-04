@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yijiachangle.com/2026/02/14/0%20%E5%93%B2%E5%AD%A6%E5%85%A5%E9%97%A8/</loc>
+    
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.yijiachangle.com/2026/03/04/1%20%E5%BD%B1%E9%9F%B3%E7%8F%8D%E8%97%8F/</loc>
+    
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.yijiachangle.com/2026/02/25/%E6%9B%BC%E5%9F%8E%E9%98%B5%E5%AE%B9%E5%88%86%E6%9E%90%2020260225/</loc>
     
     <lastmod>2026-03-03</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://www.yijiachangle.com/2026/02/14/0%20%E5%93%B2%E5%AD%A6%E5%85%A5%E9%97%A8/</loc>
-    
-    <lastmod>2026-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.yijiachangle.com/2026/02/24/1%20LEGO/</loc>
     
     <lastmod>2026-02-25</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://www.yijiachangle.com/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,28 +84,28 @@
   
   <url>
     <loc>http://www.yijiachangle.com/tags/Philosophy/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.yijiachangle.com/tags/Hobbies/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.yijiachangle.com/tags/Collections/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.yijiachangle.com/tags/ManCity/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
